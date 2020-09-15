@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Holden's Javascripts Page</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body>
+      <img src="csc106_banner.jpg" alt="csc_106" >  
+    
+    <table>
+      <tr>
+        <td> <img src="home button.png"> </td>
+        <td> <img src="javascripts button.png"> </td>
+        <td> <img src="apps button.png" > </td>
+        <td> <img src="about me button.png" > </td>
+      </tr>
+    </table>
+    
+  </body>
+</html>
